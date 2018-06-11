@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/prefix"/>
+    <qresource prefix="/">
+        <file>res/move.wav</file>
+        <file>res/win.wav</file>
+    </qresource>
+</RCC>
