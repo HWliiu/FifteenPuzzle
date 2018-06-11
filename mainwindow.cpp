@@ -117,7 +117,7 @@ void MainWindow::initLabels()
     }
 }
 
-void MainWindow::mousePressEvent(QMouseEvent *event){//这几行代码是从CSDN上找的
+void MainWindow::mousePressEvent(QMouseEvent *event){
     if(event->buttons() == Qt::LeftButton)//有个不足之处是鼠标放在开始游戏按钮上拖动窗口时，窗口会抖一下
         startRelativePos=event->pos();
 }
