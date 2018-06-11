@@ -1,1 +1,1 @@
-# Pazzle
+# fifteen puzzle
